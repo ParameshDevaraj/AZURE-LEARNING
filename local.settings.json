@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AZURE_STORAGE_CONNECTION_STRING" :"DefaultEndpointsProtocol=https;AccountName=investigationlearning;AccountKey=+PEHIMlqP4GPYs7FrX6cVOzk6zZ/775ccKCybg3Erq5VFMRaRoifGiGC9iarvyXwlMIe1aWqnfNX+AStCgXoVw==;EndpointSuffix=core.windows.net"
+  }
+}
